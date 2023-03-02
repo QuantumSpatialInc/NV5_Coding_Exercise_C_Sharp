@@ -5,14 +5,11 @@ than a couple of hours.
 
 ## Instructions
 
-Two CSVs are provided.  *buildings.csv* contains the locations of the 30 tallest buildings in Portland, from Wikipedia.
-*queries.csv* contains a set of locations around Portland that were chosen at random.  All dimensions are in feet.
+Two CSVs are provided. buildings.csv contains the locations of the 30 tallest buildings in Portland, from Wikipedia. queries.csv contains a set of locations around Portland that were chosen at random. All dimensions are in feet.
 
-Write a Python program that reads *buildings.csv* and *queries.csv*.  For each location in *queries*, output the name of 
-the building point that is closest in 2D.
+Write a C# program that reads buildings.csv and queries.csv. For each location in queries, output the name of the building point that is closest in 2D. Create and use class definitions wherever appropriate. 
 
-You may use any version of Python and any freely-available libraries you wish, but please provide an instructional
-document detailing how to set up and run the program.
+You may use any version of .NET you wish. Please provide source code for either a command line application which accepts the two file paths as arguments or a WinForms GUI.
 
 ## Bonus tasks
 
